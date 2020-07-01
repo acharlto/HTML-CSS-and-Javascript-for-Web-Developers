@@ -1,0 +1,45 @@
+.center {
+	text-align: center;
+	width: 100%;
+}
+
+.box {
+	background-color: gray;
+	margin-right: 10px;
+  	margin-left: 10px;
+  	margin-top: 20px;
+  	margin-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-top: 1px;
+	height: 1000px;
+}
+
+.gray-bg {
+	background-color: gray;
+}
+.gray-bg-lt {
+	background-color: #ddd;
+}
+.blk-text {
+	color: black;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+
+.navbar-default .navbar-toggle.collapsed {
+  border-color: black;
+}
+
+#nav-list {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.bottom {
+	border-bottom: 3pt solid gray;
+}
